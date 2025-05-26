@@ -1,0 +1,3 @@
+[submodule "themes/NightFolio"]
+	path = themes/NightFolio
+	url = https://github.com/cx48/NightFolio.git
