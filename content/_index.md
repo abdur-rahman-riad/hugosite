@@ -1,5 +1,5 @@
 ---
-title: "John Doe - Senior Software Engineer"
+title: "A. Rahman Riad"
 name: "Abdur Rahman Riad"
 position: "Creative Designer"
 location: "Feni-3900, Bangladesh"
@@ -51,6 +51,10 @@ skills:
     items: ["Git", "VS Code", "Google Colab"]
 
 # Remaining sections are optional.
+publications:
+- title: "Jahan, B., Chowdhury M.K., Mazumder S.H., Akter M., Rayan M.A., Rahman M.A. (2024). Detection of Cyberbullying Text in Bangla Using N-Gram Analysis and Machine Learning Approaches."
+  publication: "Springer"
+  date: "2024"
 
 certifications:
   - name: "Web Development"
@@ -68,6 +72,7 @@ projects:
     description: "Designed and deployed 15+ dynamic, responsive websites using ReactJs, MongoDB, and NodeJs, improving user experience and load time efficiency."
   - title: "Machine Learning:"
     description: "Built a predictive model for student performance, achieving 85% accuracy using Python and Scikit-learn. - Processed and analyzed the Titanic dataset, enhancing data processing workflows for machine learning tasks."
+
 
 # awards:
 #   - title: "Employee of the Year"
